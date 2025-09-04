@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ericzakariasson-pg-mcp-server-badge.png)](https://mseep.ai/app/ericzakariasson-pg-mcp-server)
+
 # PostgreSQL Model Context Protocol (PG-MCP) Server
 
 A Model Context Protocol (MCP) server for PostgreSQL databases with enhanced capabilities for AI agents.
